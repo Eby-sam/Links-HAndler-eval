@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+#container {
+    width: 100%;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 10px;
+    font-size: 3.5rem;
+    font-style: italic;
+}
+
+#containerLinks {
+    width: 80%;
+    margin: 20px auto 0 auto;
+}
